@@ -7,3 +7,8 @@
 |PC|MacBook Air M1（2020）||
 |言語|Python||
 |コンテナ|Docker||
+
+## コマンド
+```
+docker compose exec ml python /workspace/tutorial/tutorial.py
+```
